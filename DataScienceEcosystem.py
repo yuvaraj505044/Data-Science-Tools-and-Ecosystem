@@ -92,15 +92,5 @@ hours
 #This will convert 200 minutes to hours by diving by 60.
 
 
-# In[1]:
-
-
-a = 10
-b = 20
-c = a + b
-print(c)
-
-
 # ## Author
 #  Yuvaraj
-# 
